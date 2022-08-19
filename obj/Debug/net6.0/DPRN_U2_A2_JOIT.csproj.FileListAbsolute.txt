@@ -1,0 +1,15 @@
+D:\DPRN_U2_A2_JOIT\bin\Debug\net6.0\DPRN_U2_A2_JOIT.exe
+D:\DPRN_U2_A2_JOIT\bin\Debug\net6.0\DPRN_U2_A2_JOIT.deps.json
+D:\DPRN_U2_A2_JOIT\bin\Debug\net6.0\DPRN_U2_A2_JOIT.runtimeconfig.json
+D:\DPRN_U2_A2_JOIT\bin\Debug\net6.0\DPRN_U2_A2_JOIT.dll
+D:\DPRN_U2_A2_JOIT\bin\Debug\net6.0\ref\DPRN_U2_A2_JOIT.dll
+D:\DPRN_U2_A2_JOIT\bin\Debug\net6.0\DPRN_U2_A2_JOIT.pdb
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\DPRN_U2_A2_JOIT.csproj.AssemblyReference.cache
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\DPRN_U2_A2_JOIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\DPRN_U2_A2_JOIT.AssemblyInfoInputs.cache
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\DPRN_U2_A2_JOIT.AssemblyInfo.cs
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\DPRN_U2_A2_JOIT.csproj.CoreCompileInputs.cache
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\DPRN_U2_A2_JOIT.dll
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\ref\DPRN_U2_A2_JOIT.dll
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\DPRN_U2_A2_JOIT.pdb
+D:\DPRN_U2_A2_JOIT\obj\Debug\net6.0\DPRN_U2_A2_JOIT.genruntimeconfig.cache
